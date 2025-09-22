@@ -66,6 +66,7 @@ Filtering, sorting, and pagination all work on this dataset (no backend used).
 Clone the repository
 
 git clone https://github.com/Surendra12S/E-commerce-web-site.git
+
 cd E-commerce-web-site
 
 
