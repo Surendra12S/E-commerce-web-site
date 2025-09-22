@@ -70,9 +70,6 @@ git clone https://github.com/Surendra12S/E-commerce-web-site.git
 cd E-commerce-web-site
 
 
-Install dependencies
-npm install
-
 
 
 ⚡ Notes
