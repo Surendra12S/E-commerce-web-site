@@ -1,7 +1,7 @@
 import React, { useMemo, useState, useEffect } from "react";
-import ProductCard from "./ProductCard";
-import productsData from "../data/products";
-import Pagination from "./Pagination"; 
+import ProductCard from "./ProductCard.jsx";
+import productsData from "../data/Products.js";
+import Pagination from "./Pagination.jsx"; 
 import SortDropdown from "./ShortDropdown.jsx";
 import SwitchImg from "../assets/SwitchImg.png";
 import menuImg from "../assets/menu.png";
