@@ -62,8 +62,7 @@ cd E-commerce-web-site
 ⚡ Notes
 
 Live Deployment: https://e-commerce-web-site-2g7u.vercel.app
-Commit History: Kept intact, reflecting the step-by-step development process
-Data: Mock dataset only; no backend used
+
 
 📞 Contact
 
