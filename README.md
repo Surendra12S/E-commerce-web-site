@@ -70,33 +70,14 @@ cd E-commerce-web-site
 
 
 Install dependencies
-
 npm install
-# or
-yarn
 
-
-Start the development server
-
-npm run dev
-# or
-yarn dev
-
-
-Open your browser at http://localhost:5173
-
-Build for production (optional)
-
-npm run build
-npm run preview
 
 
 ⚡ Notes
 
 Live Deployment: https://e-commerce-web-site-2g7u.vercel.app
-
 Commit History: Kept intact, reflecting the step-by-step development process
-
 Data: Mock dataset only; no backend used
 
 📞 Contact
